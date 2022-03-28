@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: pink;
+  font-family: "Roboto Slab", serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-rendering: optimizeLegibility;
+}
+
+html {
+  background: burlywood;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  border: 0;
+  padding: 1rem;
+}
